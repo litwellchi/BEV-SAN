@@ -62,7 +62,7 @@ python [EXP_PATH] --ckpt_path [CKPT_PATH] -e -b 8 --gpus 8
 **
 
 ## Cite BEV-SAN
-If you use BEVDepth in your research, please cite our work by using the following BibTeX entry:
+If you use BEV-SAN in your research, please cite our work by using the following BibTeX entry:
 
 ## Thanks
 Our code is based on the BEVDepth(https://github.com/Megvii-BaseDetection/BEVDepth)
