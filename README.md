@@ -5,7 +5,7 @@ For more details, please refer to our [paper on Arxiv](https://arxiv.org/abs/221
 <img src="assets/BEVSAN.png" width="1000" >
 
 ## Updates!!
-* 【2023/10/24】 We publish the code base of our work. To be finished now.
+* 【2023/10/24】 We publish the code base of our work. Updating soon.
 * 【2023/02/24】 Our work has been accepted by the CVPR2023.
 ## Quick Start
 ### Installation
