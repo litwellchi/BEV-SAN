@@ -1,5 +1,6 @@
 # BEV-SAN: Accurate BEV 3D Object Detection via Slice Attention Networks
 The official release of BEV-SAN is now available.
+
 ![Python 3.7](https://img.shields.io/badge/Python-3.7-red)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2212.01231)
 
